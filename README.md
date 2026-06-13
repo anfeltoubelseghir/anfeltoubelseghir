@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfeltoubelseghir" alt="anfeltoubelseghir" /></a> </p>
 
-- 🔭 I’m currently working on **Horse riding and equestrian related web project**
+- 🔭 I’m currently working on **Equoira — A modern equestrian web project**
 
 - 🌱 I’m currently learning **React, Vue, GSAP, Web Development, AI Tools, Git & GitHub**
 
