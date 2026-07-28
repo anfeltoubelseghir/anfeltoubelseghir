@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anfel toubal seghir</h1>
-<h3 align="center">3rd Year Computer Science Student passionate about AI & Web Development</h3>
+<h3 align="center">Computer Science Student | Front-End Developer | Learning Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anfeltoubelseghir&label=Profile%20views&color=0e75b6&style=flat" alt="anfeltoubelseghir" /> </p>
 
@@ -13,12 +13,36 @@
 
 - 🤝 I’m looking for help with **Improving my full stack development skills**
 
-- 💬 Ask me about **HTML, CSS, PHP, C++, GitHub and AI tools**
+- 💬 Interested in HTML, CSS, JavaScript, PHP, Git, GitHub and AI-powered development
 
 - ⚡ Fun fact **I love combining technology and creativity 🚀**
+- ## Featured Projects
+
+🐎 Equoira
+Modern equestrian platform for Algeria.
+
+🔗 Repository
+
+---
+
+🤖 Robot Synchronization
+
+Operating Systems project using Python.
+
+---
+
+🌐 Portfolio Website
+
+My personal portfolio built with HTML, CSS and JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/anfeltoubelseghir">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
