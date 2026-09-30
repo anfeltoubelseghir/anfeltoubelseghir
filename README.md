@@ -147,8 +147,13 @@ I'm looking for opportunities where I can apply my academic knowledge, gain prac
   <a href="mailto:anfeltoubelseghir@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+
   <a href="https://github.com/anfeltoubelseghir">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anfel-toubel-seghir-69aa7433a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
