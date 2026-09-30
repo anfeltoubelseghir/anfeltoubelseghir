@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anfel Toubal Seghir</h1>
 
-<h3 align="center">M1 Computer Science Student | Networks & Distributed Systems | Looking for an Internship</h3>
+<h3 align="center">M1 Computer Science Student | Networks & Distributed Systems | Open to Internship</h3>
 
 <p align="center">
-  <a href="https://github.com/anfeltoubelseghir">
-    <img src="https://komarev.com/ghpvc/?username=anfeltoubelseghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=anfeltoubelseghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -14,54 +12,54 @@
 
 I'm a **Master 1 Computer Science student** specializing in **Networks and Distributed Systems** at Yahia Fares University of Médéa, Algeria.
 
-I have a Bachelor's degree in **Computer Science – Information Systems** and I'm currently developing my technical skills through academic and personal projects.
+I hold a Bachelor's degree in **Computer Science – Information Systems** and I'm currently developing my technical skills through academic and personal projects.
 
-I'm interested in:
+### I'm interested in:
 
 * 🌐 Computer Networks
 * 🖥️ Systems & Distributed Systems
-* 💻 Web Development
-* 🗄️ Databases
-* 🔐 Web Security
 * 🔧 Information Systems
+* 🗄️ Databases
+* 💻 Web Development
+* 🔐 Web Security
 
 🎯 **Currently looking for an internship opportunity in IT, Networks, Systems or Distributed Systems.**
 
 📍 Based in Médéa, Algeria
-💻 Open to remote opportunities outside my region.
+💻 Open to remote internship opportunities outside my region.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming & Web
+### Programming & Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 🔐 Other Knowledge
+### Other Knowledge
 
-* Web Security fundamentals
-* CSRF protection
-* SQL Injection prevention
-* Access Control
 * REST APIs
 * JSON
 * HTTP
-* UI/UX fundamentals
+* Web Security Fundamentals
+* CSRF Protection
+* SQL Injection Prevention
+* Access Control
+* UI/UX Fundamentals
 * Wireframing
 
 ---
@@ -76,13 +74,25 @@ I'm interested in:
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git`
 
-🔗 [View Repository](https://github.com/anfeltoubelseghir)
+🔒 **Source code is private.**
+
+---
+
+### 🌐 Personal Portfolio
+
+A responsive personal portfolio website created to showcase my academic background, skills, projects and learning journey.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/anfeltoubelseghir/Portfolio)
 
 ---
 
 ### 🤖 Robot Synchronization
 
-Operating Systems academic project focused on synchronization concepts.
+Academic **Operating Systems** project focused on synchronization concepts.
 
 **Technology:**
 
@@ -90,25 +100,17 @@ Operating Systems academic project focused on synchronization concepts.
 
 ---
 
-### 🌐 Personal Portfolio
-
-Personal portfolio website created to showcase my projects, skills and work.
-
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
 ## 🎓 Education
 
-**Master 1 – Computer Science**
-Networks & Distributed Systems
+### Master 1 – Computer Science
+
+**Networks & Distributed Systems**
 Yahia Fares University of Médéa
 2026 – Present
 
-**Bachelor's Degree – Computer Science**
-Information Systems
+### Bachelor's Degree – Computer Science
+
+**Information Systems**
 Yahia Fares University of Médéa
 2023 – 2026
 
@@ -120,19 +122,22 @@ Yahia Fares University of Médéa
 * 🖥️ Distributed Systems
 * 🔧 Systems & Information Systems
 * 🔌 APIs & Web Technologies
-* 💻 Modern Web Development
+* 💻 Web Development
 
 ---
 
-## 🤝 I'm Interested In
+## 🎯 Career Interests
 
-* Internship opportunities
-* IT projects
-* Networks & Systems
+I'm interested in internship opportunities related to:
+
+* Computer Networks
+* Systems Administration
 * Distributed Systems
-* Web Development
 * Information Systems
-* Learning from experienced professionals
+* IT Infrastructure
+* Web Development
+
+I'm particularly interested in opportunities that allow me to learn from experienced professionals and apply my academic knowledge to real-world projects.
 
 ---
 
@@ -146,10 +151,6 @@ Yahia Fares University of Médéa
 
 <a href="https://github.com/anfeltoubelseghir">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/anfel-toubel-seghir-/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
