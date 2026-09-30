@@ -12,9 +12,9 @@
 
 I'm a **Master 1 Computer Science student** specializing in **Networks and Distributed Systems** at Yahia Fares University of Médéa, Algeria.
 
-I hold a Bachelor's degree in **Computer Science – Information Systems** and I'm currently developing my technical skills through academic and personal projects.
+I hold a Bachelor's degree in **Computer Science – Information Systems** and I'm developing my technical skills through academic and personal projects.
 
-### I'm interested in:
+### Areas of Interest
 
 * 🌐 Computer Networks
 * 🖥️ Systems & Distributed Systems
@@ -35,19 +35,19 @@ I hold a Bachelor's degree in **Computer Science – Information Systems** and I
 ### Programming & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java" alt="Programming and Web Technologies" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
 ### Other Knowledge
@@ -68,7 +68,7 @@ I hold a Bachelor's degree in **Computer Science – Information Systems** and I
 
 ### 🐎 EQUIORA
 
-**EQUIORA** is an academic web platform designed for discovering, booking and managing equestrian services in Algeria.
+Academic web platform designed for discovering, booking and managing equestrian services in Algeria.
 
 **Technologies:**
 
@@ -80,7 +80,7 @@ I hold a Bachelor's degree in **Computer Science – Information Systems** and I
 
 ### 🌐 Personal Portfolio
 
-A responsive personal portfolio website created to showcase my academic background, skills, projects and learning journey.
+Responsive personal portfolio website created to showcase my academic background, skills, projects and learning journey.
 
 **Technologies:**
 
@@ -131,28 +131,25 @@ Yahia Fares University of Médéa
 I'm interested in internship opportunities related to:
 
 * Computer Networks
-* Systems Administration
+* Systems
 * Distributed Systems
 * Information Systems
 * IT Infrastructure
 * Web Development
 
-I'm particularly interested in opportunities that allow me to learn from experienced professionals and apply my academic knowledge to real-world projects.
+I'm looking for opportunities where I can apply my academic knowledge, gain practical experience and learn from experienced professionals.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="mailto:anfeltoubelseghir@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/anfeltoubelseghir">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+  <a href="mailto:anfeltoubelseghir@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/anfeltoubelseghir">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 </p>
 
 ---
