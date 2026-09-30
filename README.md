@@ -1,55 +1,159 @@
-<h1 align="center">Hi 👋, I'm Anfel toubal seghir</h1>
-<h3 align="center">Computer Science Student | Front-End Developer | Learning Full Stack Development</h3>
+<h1 align="center">Hi 👋, I'm Anfel Toubal Seghir</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anfeltoubelseghir&label=Profile%20views&color=0e75b6&style=flat" alt="anfeltoubelseghir" /> </p>
+<h3 align="center">M1 Computer Science Student | Networks & Distributed Systems | Looking for an Internship</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfeltoubelseghir" alt="anfeltoubelseghir" /></a> </p>
-
-- 🔭 I’m currently working on **Equoira — A modern equestrian web project**
-
-- 🌱 I’m currently learning **React, Vue, GSAP, Web Development, AI Tools, Git & GitHub**
-
-- 👯 I’m looking to collaborate on **Web Development & Creative Projects**
-
-- 🤝 I’m looking for help with **Improving my full stack development skills**
-
-- 💬 Interested in HTML, CSS, JavaScript, PHP, Git, GitHub and AI-powered development
-
-- ⚡ Fun fact **I love combining technology and creativity 🚀**
-- ## Featured Projects
-
-🐎 Equoira
-Modern equestrian platform for Algeria.
-
-🔗 Repository
+<p align="center">
+  <a href="https://github.com/anfeltoubelseghir">
+    <img src="https://komarev.com/ghpvc/?username=anfeltoubelseghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-🤖 Robot Synchronization
+## 👩‍💻 About Me
 
-Operating Systems project using Python.
+I'm a **Master 1 Computer Science student** specializing in **Networks and Distributed Systems** at Yahia Fares University of Médéa, Algeria.
+
+I have a Bachelor's degree in **Computer Science – Information Systems** and I'm currently developing my technical skills through academic and personal projects.
+
+I'm interested in:
+
+* 🌐 Computer Networks
+* 🖥️ Systems & Distributed Systems
+* 💻 Web Development
+* 🗄️ Databases
+* 🔐 Web Security
+* 🔧 Information Systems
+
+🎯 **Currently looking for an internship opportunity in IT, Networks, Systems or Distributed Systems.**
+
+📍 Based in Médéa, Algeria
+💻 Open to remote opportunities outside my region.
 
 ---
 
-🌐 Portfolio Website
+## 🛠️ Skills & Technologies
 
-My personal portfolio built with HTML, CSS and JavaScript.
+### 💻 Programming & Web
 
-<h3 align="left">Connect with me:</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🔐 Other Knowledge
+
+* Web Security fundamentals
+* CSRF protection
+* SQL Injection prevention
+* Access Control
+* REST APIs
+* JSON
+* HTTP
+* UI/UX fundamentals
+* Wireframing
+
+---
+
+## 🚀 Featured Projects
+
+### 🐎 EQUIORA
+
+**EQUIORA** is an academic web platform designed for discovering, booking and managing equestrian services in Algeria.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git`
+
+🔗 [View Repository](https://github.com/anfeltoubelseghir)
+
+---
+
+### 🤖 Robot Synchronization
+
+Operating Systems academic project focused on synchronization concepts.
+
+**Technology:**
+
+`Python`
+
+---
+
+### 🌐 Personal Portfolio
+
+Personal portfolio website created to showcase my projects, skills and work.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🎓 Education
+
+**Master 1 – Computer Science**
+Networks & Distributed Systems
+Yahia Fares University of Médéa
+2026 – Present
+
+**Bachelor's Degree – Computer Science**
+Information Systems
+Yahia Fares University of Médéa
+2023 – 2026
+
+---
+
+## 📚 Currently Learning
+
+* 🌐 Computer Networks
+* 🖥️ Distributed Systems
+* 🔧 Systems & Information Systems
+* 🔌 APIs & Web Technologies
+* 💻 Modern Web Development
+
+---
+
+## 🤝 I'm Interested In
+
+* Internship opportunities
+* IT projects
+* Networks & Systems
+* Distributed Systems
+* Web Development
+* Information Systems
+* Learning from experienced professionals
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
+
+<a href="mailto:anfeltoubelseghir@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 <a href="https://github.com/anfeltoubelseghir">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+
+<a href="https://www.linkedin.com/in/anfel-toubel-seghir-/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anfeltoubelseghir&show_icons=true&locale=en&layout=compact" alt="anfeltoubelseghir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anfeltoubelseghir&show_icons=true&locale=en" alt="anfeltoubelseghir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anfeltoubelseghir&" alt="anfeltoubelseghir" /></p>
+⭐ Thanks for visiting my profile!
